@@ -3,8 +3,6 @@
 A front-end only, structured language reference for **MQL4 and MQL5**: syntax, usage,
 performance considerations, application architecture and AI integration.
 
-![stack](https://img.shields.io/badge/Vite-React%2018-TS-blue) ![style](https://img.shields.io/badge/Tailwind-3.4-38bdf8) ![deploy](https://img.shields.io/badge/deploy-Vercel-black)
-
 ## Contents
 
 | Section | Detail |
